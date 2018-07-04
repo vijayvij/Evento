@@ -6,7 +6,7 @@ const firebaseConfig = {
   authDomain: 'evento-209109.firebaseapp.com',
   databaseURL: 'https://evento-209109.firebaseio.com',
   projectId: 'evento-209109',
-  storageBucket: '',
+  storageBucket: 'evento-209109.appspot.com',
   messagingSenderId: '1070390204838'
 };
 
